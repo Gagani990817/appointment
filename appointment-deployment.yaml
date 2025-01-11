@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: appointment-service
-        image: oyage-dockerhub-username-eka-methanta-danna/appointment-service:latest
+        image: Gagani990817/appointment-service:latest
         ports:
         - containerPort: 5000
